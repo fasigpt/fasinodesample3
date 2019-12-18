@@ -1,8 +1,13 @@
 {
-
-"name": "supercoolnodeapp",
-"version": "1.0.0",
-"description": "super node app ",
-"main": "server.js"
-
+  "name": "supercoolnodeapp",
+  "version": "1.0.0",
+  "description": "super node app ",
+  "main": "server.js",
+  "scripts": {
+    "start": "yarn start"
+  },
+  "dependencies": {
+    "yarn-install": "^1.0.0"
+  }
 }
+
